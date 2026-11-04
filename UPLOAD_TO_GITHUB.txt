@@ -1,0 +1,8 @@
+GITHUB UPLOAD STEPS
+1. Extract Capstone_4_GitHub_Ready.zip on your device.
+2. Create a new empty repository on GitHub.
+3. Upload the contents inside the extracted Capstone_4_GitHub_Ready folder.
+4. Keep the folder structure unchanged.
+5. Commit the files to the main branch.
+
+The PDF report is in docs/. README.md is the repository home page.
